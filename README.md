@@ -48,14 +48,27 @@ Our database consists of the following six tables:
    ```
 
 ## 📷 Screenshots
-*Home*
+**Home**
+
 ![image](https://github.com/user-attachments/assets/1fe49bb8-9f59-4c47-b30a-f1f21e86c129)
 
-*Book A Flight*
+**Search Flights**
+
+![image](https://github.com/user-attachments/assets/50031013-d34f-488c-bd90-3e89b9ec30c4)
+
+**Book A Flight**
+
 ![image](https://github.com/user-attachments/assets/74b71918-eb13-440e-9c54-83de6bf1152f)
 
-*My Bookings*
+**My Bookings**
+
 ![image](https://github.com/user-attachments/assets/a8567082-ab53-4e09-b869-178f2d93ba23)
+![image](https://github.com/user-attachments/assets/511eee10-0750-4ae4-8af8-221f0d527695)
+
+
+**Cancel Ticket**
+![image](https://github.com/user-attachments/assets/eea4d8bb-5ae9-49c5-930e-f99577b3f862)
+
 
 
 ## 🤝 Contributors
