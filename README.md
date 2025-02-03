@@ -1,1 +1,1 @@
-# DBMS-Airline_Reservation_System
+# Database-Airline_Reservation_System
