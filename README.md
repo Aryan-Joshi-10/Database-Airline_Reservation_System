@@ -48,7 +48,14 @@ Our database consists of the following six tables:
    ```
 
 ## 📷 Screenshots
-*(Add screenshots of the Streamlit UI showing the booking process, flight schedules, etc.)*
+*Home*
+![image](https://github.com/user-attachments/assets/1fe49bb8-9f59-4c47-b30a-f1f21e86c129)
+
+*Book A Flight*
+![image](https://github.com/user-attachments/assets/74b71918-eb13-440e-9c54-83de6bf1152f)
+
+*My Bookings*
+![image](https://github.com/user-attachments/assets/a8567082-ab53-4e09-b869-178f2d93ba23)
 
 
 ## 🤝 Contributors
