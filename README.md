@@ -9,7 +9,7 @@ The **Airline Reservation System** is a database management project designed to 
 - **Cancel Tickets**: Provides an option to cancel booked tickets.
 - **User-Friendly Interface**: Developed using **Streamlit** for an interactive and seamless experience.
 
-## 🛠️ Technologies Used
+## 🛠️ TECH STACK
 - **Frontend**: Streamlit (Python)
 - **Backend**: MySQL
 - **Database Connector**: MySQL Connector for Python
