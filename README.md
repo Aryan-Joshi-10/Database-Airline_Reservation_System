@@ -76,8 +76,7 @@ Our database consists of the following six tables:
 - **Mithil Jatkar**
 - **Akshat Gandhi**
 
-## 📜 License
-This project is licensed under the MIT License.
+
 
 ---
 Feel free to contribute, suggest improvements, or raise issues. Happy coding! 🚀
